@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node expressWebserver2.js"
   },
-  "author": "Tom Newman",
+  "author": "Nathan Gershman",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
