@@ -1,3 +1,7 @@
 Nathan Gershman
 
 Write a paragraph explaining what you learned from this assignment.
+During this assignment I learned about node.js and how it works to serve a webservice on my local machine.
+I learned about the app.yaml file (yet another markup language :) ) that is necessary to deploy my service. You cannot deploy without the app.yaml file.
+I learned about how you can use Google's PaaS GCP (Google Cloud Platform) to host applications, webservers, and other services through the cloud.
+I learned how to deploy my website through GCP and the process of creating projects and running them on GCP.
